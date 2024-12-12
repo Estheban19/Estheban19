@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
-    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Conéctate conmigo! ✨</h1>
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;"></h1>
     <p style="color: #555; font-size: 18px;">Sigue mis redes sociales:</p>
     <div style="margin-top: 20px;">
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
