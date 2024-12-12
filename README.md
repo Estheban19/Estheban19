@@ -1,5 +1,5 @@
 <div style="height: 100vh; display: flex; justify-content: center; align-items: center; background-color: #f9f9f9; text-align: center;">
-    <img src="https://i.pinimg.com/originals/62/52/6f/62526f18e8c9d40c9328769ac46ecb06.gif" 
+    <img src="https://i.pinimg.com/originals/c4/b1/f6/c4b1f6fe91d863af7c4ebde42c03431e.gif" 
          alt="Banner Image" 
          style="width: 100vw; height: 100vh; object-fit: cover; border: 10px solid #333; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
 </div>
@@ -33,5 +33,4 @@
         </a>
     </div>
 </div>
-
 
