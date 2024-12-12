@@ -1,15 +1,32 @@
-
-## 🌐 MIS REDES SOCIALES:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/esthebaxn)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/esthebaxn_/?hl=es)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@esthebaxn_0)  
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Estheban19&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="text-align: center; padding: 20px; background-color: #f4f4f4; border-bottom: 2px solid #ddd;">
+    <img src="https://yt3.googleusercontent.com/HjtYpXy0clvzrWjr0Czd9dHhCWvL6LUHukT-wiZYh2H-8U8to-fpQBIGL5QCrNAswDDH3n2p=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
+         alt="Banner" 
+         style="width: 100%; max-width: 800px; border-radius: 10px;">
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px;">🌐 Bienvenidos a mis redes sociales y tecnologías favoritas</h1>
+    <p>Sígueme en mis redes sociales:</p>
+    <div>
+        <a href="https://www.facebook.com/esthebaxn" target="_blank">
+            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/esthebaxn_/?hl=es" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://www.tiktok.com/@esthebaxn_0" target="_blank">
+            <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
+        </a>
+    </div>
+    <h2 style="margin-top: 20px;">💻 Tech Stack:</h2>
+    <div>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </div>
+    <div style="margin-top: 20px;">
+        <a href="https://visitcount.itsvg.in" target="_blank">
+            <img src="https://visitcount.itsvg.in/api?id=Estheban19&icon=0&color=0" alt="Visit Count">
+        </a>
+    </div>
+</div>
