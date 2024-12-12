@@ -1,10 +1,9 @@
-
-<div style="text-align: center; padding: 20px; background-color: #f0f0f0; border-bottom: 2px solid #ddd;">
-    <img src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif" 
-         alt="Animated Banner" 
+<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
+    <img src="https://yt3.googleusercontent.com/HjtYpXy0clvzrWjr0Czd9dHhCWvL6LUHukT-wiZYh2H-8U8to-fpQBIGL5QCrNAswDDH3n2p=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
+         alt="Banner Image" 
          style="width: 100%; max-width: 900px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
-    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Bienvenidos a mi mundo digital! ✨</h1>
-    <p style="color: #555; font-size: 18px;">Conecta conmigo en las redes sociales:</p>
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Conéctate conmigo! ✨</h1>
+    <p style="color: #555; font-size: 18px;">Sigue mis redes sociales:</p>
     <div style="margin-top: 20px;">
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -31,6 +30,5 @@
         </a>
     </div>
 </div>
-
 
 
