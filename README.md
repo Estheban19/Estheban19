@@ -1,5 +1,5 @@
 <div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
-    <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" 
+    <img src="https://i.pinimg.com/originals/c4/b1/f6/c4b1f6fe91d863af7c4ebde42c03431e.gif" 
          alt="Banner Image" 
          style="width: 100%; max-width: 900px; border-radius: 15px; border: 10px solid #333; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
     <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Conéctate conmigo! ✨</h1>
@@ -30,3 +30,4 @@
         </a>
     </div>
 </div>
+
