@@ -1,9 +1,10 @@
-<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
-    <img src="https://i.pinimg.com/originals/85/66/22/8566227add4552e94c8a9faaa0edaa4a.gif" 
+
+<div style="text-align: center; padding: 20px; background-color: #f0f0f0; border-bottom: 2px solid #ddd;">
+    <img src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif" 
          alt="Animated Banner" 
-         style="width: 100%; max-width: 900px; border-radius: 15px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);">
-    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">🌟 ¡Explora mis redes sociales y tecnología!</h1>
-    <p style="color: #555; font-size: 18px;">Conéctate conmigo a través de las siguientes plataformas:</p>
+         style="width: 100%; max-width: 900px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Bienvenidos a mi mundo digital! ✨</h1>
+    <p style="color: #555; font-size: 18px;">Conecta conmigo en las redes sociales:</p>
     <div style="margin-top: 20px;">
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -15,7 +16,7 @@
             <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
         </a>
     </div>
-    <h2 style="margin-top: 40px; color: #333;">💻 Tech Stack:</h2>
+    <h2 style="margin-top: 40px; color: #333;">💻 Mi Stack Tecnológico:</h2>
     <div style="margin-top: 20px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
@@ -30,5 +31,6 @@
         </a>
     </div>
 </div>
+
 
 
