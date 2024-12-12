@@ -1,10 +1,10 @@
 <div style="height: 100vh; display: flex; justify-content: center; align-items: center; background-color: #f9f9f9; text-align: center;">
-    <img src="https://pin.it/3UpNEMuh4" 
+    <img src="https://i.pinimg.com/736x/6a/2a/7e/6a2a7e3b17c98e51a60c98cf5c16017b.jpg" 
          alt="Banner Image" 
-         style="width: 120vw; height: 120vh; object-fit: cover; border: 20px solid #333; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
+         style="width: 80%; max-width: 900px; height: auto; border: 15px solid #333; border-radius: 25px; box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.5);">
 </div>
 
-<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
+<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-top: 2px solid #ddd;">
     <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Conéctate conmigo! ✨</h1>
     <p style="color: #555; font-size: 18px;">Sigue mis redes sociales:</p>
     <div style="margin-top: 20px;">
@@ -33,4 +33,3 @@
         </a>
     </div>
 </div>
-
