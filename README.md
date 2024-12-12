@@ -1,9 +1,9 @@
 <div style="text-align: center; padding: 20px; background-color: #f4f4f4; border-bottom: 2px solid #ddd;">
-    <img src="https://yt3.googleusercontent.com/HjtYpXy0clvzrWjr0Czd9dHhCWvL6LUHukT-wiZYh2H-8U8to-fpQBIGL5QCrNAswDDH3n2p=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
-         alt="Banner" 
-         style="width: 100%; max-width: 800px; border-radius: 10px;">
-    <h1 style="font-family: Arial, sans-serif; margin-top: 20px;">🌐 Bienvenidos a mis redes sociales y tecnologías favoritas</h1>
-    <p>Sígueme en mis redes sociales:</p>
+    <img src="https://i.pinimg.com/originals/0e/1f/e0/0e1fe0b5fa3c388e784c9fa2ea266ae4.gif" 
+         alt="Animated Banner" 
+         style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">🌐 Bienvenidos a mi espacio digital</h1>
+    <p style="color: #555;">Conéctate conmigo en mis redes sociales:</p>
     <div>
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -15,7 +15,7 @@
             <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
         </a>
     </div>
-    <h2 style="margin-top: 20px;">💻 Tech Stack:</h2>
+    <h2 style="margin-top: 20px; color: #333;">💻 Tech Stack:</h2>
     <div>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
@@ -30,3 +30,4 @@
         </a>
     </div>
 </div>
+
