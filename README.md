@@ -1,11 +1,11 @@
 <div style="height: 100vh; display: flex; justify-content: center; align-items: center; background-color: #f9f9f9; text-align: center;">
     <img src="https://i.pinimg.com/originals/5b/2e/f2/5b2ef24ae1809fe9e1e53f24cb8466d7.gif" 
          alt="Banner Image" 
-         style="width: 100vw; height: 100vh; object-fit: cover; border: 10px solid #333; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
+         style="width: 120vw; height: 120vh; object-fit: cover; border: 20px solid #333; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
 </div>
 
 <div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
-    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;"></h1>
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;">✨ ¡Conéctate conmigo! ✨</h1>
     <p style="color: #555; font-size: 18px;">Sigue mis redes sociales:</p>
     <div style="margin-top: 20px;">
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
