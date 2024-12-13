@@ -1,10 +1,9 @@
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/89/a1/97/89a197c3bf0e3ca29e70499a1b1bf9ef.jpg" />
+<div align="center" style="border: 10px solid #FF5733; padding: 10px; border-radius: 15px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F);">
+  <img src="https://i.pinimg.com/736x/89/a1/97/89a197c3bf0e3ca29e70499a1b1bf9ef.jpg" alt="Image with color border" />
 </div>
 
-<div align="center">
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
