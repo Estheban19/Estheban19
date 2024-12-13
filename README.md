@@ -1,5 +1,5 @@
 <div align="center" style="border: 10px solid #FF5733; padding: 10px; border-radius: 15px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F);">
-  <img src="https://i.pinimg.com/736x/89/a1/97/89a197c3bf0e3ca29e70499a1b1bf9ef.jpg" alt="Image with color border" />
+  <img src="https://i.pinimg.com/736x/e2/85/4e/e2854e65bbdc7ca1c53183c90a71b3c8.jpg" alt="Image with color border" />
 </div>
 
 <br> <!-- Agregado un salto de línea para separar -->
