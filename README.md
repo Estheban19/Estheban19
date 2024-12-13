@@ -1,12 +1,9 @@
-<div style="height: 100vh; display: flex; justify-content: center; align-items: center; background-color: #f9f9f9; text-align: center;">
-    <img src="https://i.pinimg.com/originals/34/1b/e2/341be2da07935de9aa9b26143ef1118d.gif" 
+<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-bottom: 2px solid #ddd;">
+    <img src="https://yt3.googleusercontent.com/HjtYpXy0clvzrWjr0Czd9dHhCWvL6LUHukT-wiZYh2H-8U8to-fpQBIGL5QCrNAswDDH3n2p=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
          alt="Banner Image" 
-         style="width: 100%; max-width: 100%; height: auto; border: 15px solid #333; border-radius: 25px; box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.5);">
-</div>
-
-<div style="text-align: center; padding: 20px; background-color: #f9f9f9; border-top: 2px solid #ddd;">
+         style="width: 100%; max-width: 900px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
+    <h1 style="font-family: Arial, sans-serif; margin-top: 20px; color: #333;"></h1>
     <p style="color: #555; font-size: 18px;">Sigue mis redes sociales:</p>
-    
     <div style="margin-top: 20px;">
         <a href="https://www.facebook.com/esthebaxn" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -18,7 +15,6 @@
             <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
         </a>
     </div>
-
     <h2 style="margin-top: 40px; color: #333;">💻 Mi Stack Tecnológico:</h2>
     <div style="margin-top: 20px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -28,15 +24,11 @@
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     </div>
-
     <div style="margin-top: 40px;">
         <a href="https://visitcount.itsvg.in" target="_blank">
-            <div align="center">
-                <a href="https://open.spotify.com/track/5zHAC2VURQnaehvbcTC7AE?si=363ba1665afa45b1" target="_blank">
-                    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-                </a>
-            </div>
             <img src="https://visitcount.itsvg.in/api?id=Estheban19&icon=0&color=0" alt="Visit Count">
         </a>
     </div>
 </div>
+
+
