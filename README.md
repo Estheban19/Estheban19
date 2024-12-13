@@ -1,16 +1,8 @@
-
-
 <div align="center" style="border: 10px solid #FF5733; padding: 10px; border-radius: 15px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F);">
   <img src="https://i.pinimg.com/736x/89/a1/97/89a197c3bf0e3ca29e70499a1b1bf9ef.jpg" alt="Image with color border" />
 </div>
 
-
-  
-
-
-
-  
-
+<br> <!-- Agregado un salto de línea para separar -->
 
 💻 Mi Stack Tecnológico:
 
@@ -30,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
-<br>
+<br> <!-- Otro salto de línea para separar -->
 
 <div align="left">
   <a href="https://www.facebook.com/esthebaxn" target="_blank">
@@ -43,9 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
   </a>
 </div>
-
-
-
 
 
 
