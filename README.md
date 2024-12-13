@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/66/c0/e2/66c0e225d3314628d1e898c537ec3180.gif" alt="Gif" />
+  <img src="https://i.pinimg.com/736x/89/a1/97/89a197c3bf0e3ca29e70499a1b1bf9ef.jpg" />
 </div>
 
 <div align="center">
