@@ -4,7 +4,7 @@
 
 <br> <!-- Agregado un salto de línea para separar -->
 
-💻 
+
 
 <div align="left">
   <div align="left">
