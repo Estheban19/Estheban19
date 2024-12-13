@@ -2,14 +2,7 @@
   <img src="https://i.pinimg.com/736x/e2/85/4e/e2854e65bbdc7ca1c53183c90a71b3c8.jpg" alt="Image with color border" />
 </div>
 
-<!-- GitHub Snake Action Configuration -->
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 <br> <!-- Agregado un salto de línea para separar -->
 
