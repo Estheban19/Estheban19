@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
@@ -5,11 +6,9 @@
 
 <br>
 
-
-
 <br>
 
-💻 Mi Stack Tecnológico:</h2>   
+💻 Mi Stack Tecnológico:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -40,11 +39,8 @@
 
 <br clear="both">
 
-
-
 <br>
 
 <div align="center">
-  <!-- Imagen eliminada de la chica -->
+  <img src="https://i.pinimg.com/originals/66/c0/e2/66c0e225d3314628d1e898c537ec3180.gif" alt="Gif" />
 </div>
-
