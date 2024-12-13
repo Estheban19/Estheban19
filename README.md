@@ -5,9 +5,10 @@
 
 <br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
 
 <br>
+>💻 Mi Stack Tecnológico:</h2>   
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
