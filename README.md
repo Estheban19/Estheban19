@@ -1,40 +1,4 @@
 
-<h1>Hola 👋, soy <strong>Mario Esteban Rojas Zamora</strong></h1>
-
-<h3>Un apasionado ingeniero de software con especialización en Inteligencia Artificial</h3>
-
-<h4>🔭 Actualmente estoy trabajando en:</h4>
-<p><strong>Desarrollo de una aplicación de gestión de libros</strong></p>
-<a href="Enlace del proyecto">Ver proyecto</a>
-
-<h4>👯 Busco colaborar en:</h4>
-<p><strong>Proyectos relacionados con Inteligencia Artificial y aprendizaje automático</strong></p>
-<a href="Enlace del proyecto">Ver proyecto</a>
-
-<h4>🤝 Busco ayuda con:</h4>
-<p><strong>Optimización de algoritmos de aprendizaje profundo</strong></p>
-<a href="Enlace del proyecto">Ver proyecto</a>
-
-<h4>🌱 Actualmente estoy aprendiendo:</h4>
-<p><strong>Redes neuronales, procesamiento de lenguaje natural y optimización de modelos</strong></p>
-
-<h4>💬 Pregúntame sobre:</h4>
-<p><strong>Python, TensorFlow, PyTorch y desarrollo de software en general</strong></p>
-
-<h4>📫 ¿Cómo contactarme?</h4>
-<p><strong>mestheban9@gmail.com</strong></p>
-
-<h4>👨‍💻 Todos mis proyectos están disponibles en:</h4>
-<a href="Enlace de cartera">Ver cartera</a>
-
-<h4>📝 Regularmente escribo artículos en:</h4>
-<a href="Enlace del blog">Ver blog</a>
-
-<h4>📄 Conoce mi experiencia:</h4>
-<a href="Enlace de reanudación">Ver currículum</a>
-
-<h4>⚡ Dato curioso:</h4>
-<p><strong>Me apasiona combinar la creatividad con la programación para resolver problemas complejos.</strong></p>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/66/c0/e2/66c0e225d3314628d1e898c537ec3180.gif" alt="Gif" />
